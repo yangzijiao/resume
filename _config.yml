@@ -1,1 +1,124 @@
-theme: jekyll-theme-architect
+# Site settings
+title: 杨紫娇的个人简历
+description: 杨紫娇的个人简历
+favicon: /assets/img/avatar.JPG
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+rss_url: /pages/atom.xml
+google_analytics: UA-63653234-1
+
+# Build settings
+markdown: kramdown
+
+exclude: [vendor]
+
+# Author settings
+author:
+  qiuzhijianli: 求职简历
+  webqianduan: 平面设计
+  authordesc: 大学本科设计专业毕业
+
+  gerenxinxi: 杨紫娇 / 女 / 23岁 / 应届
+  qiuzhimubiao: 平面设计 / 全职 / 北京 / 4k
+  jiaoyujingli: 2014.09-2018.07 / 杭州电子科技大学 / 数字媒体艺术学院产品设计专业
+  ziwopingjia: 活泼开朗、乐观向上、兴趣广泛、适应力强、上手快、勤奋好学、脚踏实地、认真负责、坚毅不拔、吃苦耐劳、勇于迎接新挑战。忠实诚信,讲原则，说到做到，决不推卸责任；有自制力，做事情始终坚持有始有终，从不半途而废；肯学习,有问题不逃避,愿意虚心向他人学习；自信但不自负,不以自我为中心；愿意以谦虚态度赞扬接纳优越者,权威者；会用100%的热情和精力投入到工作中；平易近人。为人诚恳,性格开朗,积极进取,适应力强、勤奋好学、脚踏实地，有较强的团队精神,工作积极进取,态度认真。
+
+
+
+
+
+  # name: Dong Liang
+  # title: Java Developer
+  # address: Auckland, New Zealand
+  # email: dongg.liang#gmail.com
+  name: yangzijiao
+  title: 平面设计
+  address: 北京
+  email: 2847739277@qq.com
+
+  link: http://www.baidu.com
+  weibo:
+  github: ddbullfrog
+  linkedin: ddbullfrog
+  twitter: ddbullfrog
+  gavatar: /resumecard/assets/img/avatar.JPG
+  stackoverflow:
+#  stackoverflow: 4582127
+  workHistory:
+    - work1:
+      company: Honey go小学美术老师
+      location: 北京
+      title: 小学美术老师
+      started: 2017
+      duration: (2017.1-2017.2)
+      description: 业务简介:教小学生水粉画.<br/>公司简介:honey go俱乐部隶属于金台浩歌（北京）文化发展有限公司所有，正式成立于2013年9月25日，采取会员制，在北京健德门、三元桥商圈拥有两处场地。倚靠北京体育高校专业师资，以及丰富的外教资源，至2014年开设双语网球、英语国际象棋两类课程。
+    - work2:
+      company: 维乐海亚潜水公司设计师
+      location: 北京
+      title: 美工
+      started: 2016
+      duration: (2016.10-2016.12)
+      description: 业务简介:按要求做平面海报,会员卡,网页宣传栏.<br/>公司简介:北京维乐海亚潜水俱乐部有限公司成立于2011年，是专业提供潜水运动服务的机构和公司。  是一家教授PADI潜水课程、销售维护潜水器材、提供世界各地潜水旅游服务的精品PADI五星级教练发展中心，是PADI国内高等级的潜水中心。
+    - work3:
+      company: 淘宝美工
+      location: 北京
+      title: 美工
+      started: 2016
+      duration: (2016.7-2016.9)
+      description: 业务简介:给金属项链做手绘,并且qq发送给卖家
+    - work4:
+      company: 物美促销员
+      location: 北京
+      title: 促销员
+      started: 2015
+      duration: (2015.1-2015.3)
+      description: 业务简介:在物美超市售卖商品,给来往顾客介绍并邀请他们品尝.<br/>公司简介:北京物美商业集团股份有限公司 是国内最早以连锁方式经营超市的专业集团公司之一。
+    - work5:
+      company: 麦当劳督导员
+      location: 北京
+      title: 督导员
+      started: 2015
+      duration: (2015.7-2015.9)
+      description: 业务简介:去市内各个麦当劳门店检查物品摆放情况,员工衣着情况.<br/>公司简介:麦当劳（英语：McDonald's）是全球大型跨国连锁餐厅，1940年创立于美国，在世界上大约拥有3万间分店。主要售卖汉堡包，以及薯条、炸鸡、汽水、冰品、沙拉、水果等快餐食品。
+
+ 
+  educationHistory:
+    - education1:
+      organization: XXXXXX University
+      location: Shenyang, China
+      degree: Bachelor
+      major: Software Engineering
+      started: 2017
+      duration: (2005 - 2009)
+      description: I am not a description. 
+  languages:
+    - language1:
+      name: 中文
+      proficiency: 强
+    - language2:
+      name: 英文
+      proficiency: 良好
+    - language3:
+      name: 日文
+      proficiency: a little
+
+  programmingSkills:
+    - skill1:
+      name: PS
+      percentage: 85%
+    - skill2:
+      name: AI
+      percentage: 80%
+    - skill3:
+      name: C4d
+      percentage: 70%
+    - skill4:
+      name: Mu
+      percentage: 60%
+    - skill5:
+      name: Ae
+      percentage: 60%
+    - skill6:
+      name: Word/PPT/EXCLE
+      percentage: 60%
+    - 
